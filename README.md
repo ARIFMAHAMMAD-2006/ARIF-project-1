@@ -1,3 +1,3 @@
 # ARIF-project-1
 welcome to github 
-it's my first class
+Iam ARIF from cse 2nd year of B-TECH
